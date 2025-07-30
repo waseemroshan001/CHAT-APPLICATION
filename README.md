@@ -326,4 +326,11 @@ For support, please open an issue in the GitHub repository or contact syedwaseem
 
 ---
 
+## OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/92c61b47-f083-49bf-ba49-4cf5dcac78c9" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7c9b2fc3-290c-446b-82fb-7891b3ef888f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/360dbc01-b118-45eb-aceb-c487a1c6f69f" />
+
 **Made with ❤️ for real-time communication**
