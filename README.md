@@ -1,3 +1,15 @@
+## COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SYED WASEEM ROSHAN
+
+INTERN ID: CT06DH1678
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 6 WEEEKS
+
+MENTOR:NEELA SANTOSH
+
 # Real-Time Chat Application
 
 A modern, responsive real-time chat application built with WebSocket/Socket.IO technology. Features a sleek glassmorphism design with smooth animations and real-time messaging capabilities.
